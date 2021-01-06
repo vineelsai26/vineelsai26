@@ -31,7 +31,7 @@
 <br>
 
 [![Vineel Sai's github stats](https://github-readme-stats.vineelsai.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)
-[![Top Langs](https://github-readme-stats.vineelsai.vercel.app/api/top-langs/?username=vineelsai26&langs_count=7&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali)](https://github.com/vineelsai26)
+[![Top Langs](https://github-readme-stats.vineelsai.vercel.app/api/top-langs/?username=vineelsai26&langs_count=7&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali,Shell)](https://github.com/vineelsai26)
 <br>
 
 ---
