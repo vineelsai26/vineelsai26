@@ -37,9 +37,9 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/vineelsai26/vineelsai26.github.io/issues/1) in [vineelsai26/vineelsai26.github.io](https://github.com/vineelsai26/vineelsai26.github.io)
-2. 🗣 Commented on [#1](https://github.com/vineelsai26/vineelsai26.github.io/issues/1) in [vineelsai26/vineelsai26.github.io](https://github.com/vineelsai26/vineelsai26.github.io)
-3. 🎉 Merged PR [#1](https://github.com/vineelsai26/vineelsai26.github.io/pull/1) in [vineelsai26/vineelsai26.github.io](https://github.com/vineelsai26/vineelsai26.github.io)
-4. 🎉 Merged PR [#4](https://github.com/vineelsai26/github-readme-stats/pull/4) in [vineelsai26/github-readme-stats](https://github.com/vineelsai26/github-readme-stats)
+1. 🎉 Merged PR [#5](https://github.com/vineelsai26/github-readme-stats/pull/5) in [vineelsai26/github-readme-stats](https://github.com/vineelsai26/github-readme-stats)
+2. 💪 Opened PR [#5](https://github.com/vineelsai26/github-readme-stats/pull/5) in [vineelsai26/github-readme-stats](https://github.com/vineelsai26/github-readme-stats)
+3. 🗣 Commented on [#1](https://github.com/vineelsai26/vineelsai26.github.io/issues/1) in [vineelsai26/vineelsai26.github.io](https://github.com/vineelsai26/vineelsai26.github.io)
+4. 🗣 Commented on [#1](https://github.com/vineelsai26/vineelsai26.github.io/issues/1) in [vineelsai26/vineelsai26.github.io](https://github.com/vineelsai26/vineelsai26.github.io)
 <!--END_SECTION:activity-->
 ---
