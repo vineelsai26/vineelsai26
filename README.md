@@ -1,4 +1,4 @@
-### Hi there, I'm [Vineel Sai](https://vineelsai26.github.io) 👋
+### Hi there, I'm [Vineel Sai](https://vineelsai.me) 👋
 
 * Want to see my repos look here 👆 <br>
 * Want to contact me mail me here 👉 vineelsai26@gmail.com <br>
