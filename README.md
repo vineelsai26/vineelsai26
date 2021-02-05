@@ -33,13 +33,3 @@
 [![Vineel Sai's github stats](https://github-readme-stats.vineelsai.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)
 [![Top Langs](https://github-readme-stats.vineelsai.vercel.app/api/top-langs/?username=vineelsai26&langs_count=7&exclude_repo=android_device_xiaomi_onclite,device_xiaomi_onclite,android_kernel_xiaomi_onclite,android_vendor_xiaomi_onclite&hide=Smali,Shell)](https://github.com/vineelsai26)
 <br>
-
----
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/amirzaidi/Shade/issues/29) in [amirzaidi/Shade](https://github.com/amirzaidi/Shade)
-2. 🎉 Merged PR [#5](https://github.com/vineelsai26/github-readme-stats/pull/5) in [vineelsai26/github-readme-stats](https://github.com/vineelsai26/github-readme-stats)
-3. 💪 Opened PR [#5](https://github.com/vineelsai26/github-readme-stats/pull/5) in [vineelsai26/github-readme-stats](https://github.com/vineelsai26/github-readme-stats)
-4. 🗣 Commented on [#1](https://github.com/vineelsai26/vineelsai26.github.io/issues/1) in [vineelsai26/vineelsai26.github.io](https://github.com/vineelsai26/vineelsai26.github.io)
-<!--END_SECTION:activity-->
----
