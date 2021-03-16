@@ -27,7 +27,8 @@
 <br/>
 
 ![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26) 
-![GitHub followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)
+![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars)
 <br>
 
 | GitHub Streak | GitHub Stats|
