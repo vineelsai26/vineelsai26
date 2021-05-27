@@ -1,4 +1,4 @@
-### Hi there, I'm [Vineel Sai](https://vineelsai.me) 👋
+### Hi there, I'm [Vineel Sai](https://www.vineelsai.me) 👋
 
 * Want to see my repos look here 👆 <br>
 * Want to contact me mail me here 👉 vineelsai26@gmail.com <br>
@@ -23,14 +23,14 @@
 <a href="https://t.me/vineelsai">
   <img align="left" alt="Vineel Sai's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<br/>
-<br/>
+<br>
+<br>
 
-![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26) 
-![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars)
+[![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26)](https://github.com/vineelsai26)
+[![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)](https://github.com/vineelsai26)
+[![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars)](https://github.com/vineelsai26)
 <br>
 
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light) | ![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26)|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://github.com/vineelsai26) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)|
