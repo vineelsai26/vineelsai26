@@ -33,4 +33,8 @@
 
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.me) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26)](https://vineelsai.me)|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.me) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.me)|
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Blog)](https://github.com/vineelsai26)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=E.D.I.T.H)](https://github.com/vineelsai26)
+
