@@ -1,4 +1,4 @@
-### Hi there, I'm [Vineel Sai](https://vineelsai.me) 👋
+### Hi there, I'm [Vineel Sai](https://vineelsai.tech) 👋
 
 * Want to see my repos look here 👆 <br>
 * Want to contact me mail me here 👉 vineelsai26@gmail.com <br>
@@ -27,14 +27,14 @@
 <br>
 
 [![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26)](])
-[![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)](https://vineelsai.me)
-[![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars)](https://vineelsai.me)
+[![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)](https://vineelsai.tech)
+[![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars)](https://vineelsai.tech)
 <br>
 
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.me) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.me)|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.tech) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.tech)|
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Blog)](https://github.com/vineelsai26)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=E.D.I.T.H)](https://github.com/vineelsai26)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Blog)](https://github.com/vineelsai26/Blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=E.D.I.T.H)](https://github.com/vineelsai26/E.D.I.T.H)
 
