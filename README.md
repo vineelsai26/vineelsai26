@@ -1,4 +1,4 @@
-### Hi there, I'm [Vineel Sai](https://vineelsai.tech) 👋
+### Hi there, I'm [Vineel Sai](https://vineelsai.com) 👋
 
 * Want to see my repos look here 👆 <br>
 * Want to contact me mail me here 👉 vineelsai26@gmail.com <br>
@@ -20,6 +20,9 @@
 <a href="https://github.com/vineelsai26">
   <img align="left" alt="Vineel Sai's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://vstech.medium.com/">
+  <img align="left" alt="Vineel Sai's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <a href="https://t.me/vineelsai">
   <img align="left" alt="Vineel Sai's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -27,13 +30,13 @@
 <br>
 
 [![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26)](])
-[![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)](https://vineelsai.tech)
-[![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars)](https://vineelsai.tech)
+[![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)](https://vineelsai.com)
+[![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars)](https://vineelsai.com)
 <br>
 
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.tech) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.tech)|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.com)|
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Blog)](https://github.com/vineelsai26/Blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=E.D.I.T.H)](https://github.com/vineelsai26/E.D.I.T.H)
