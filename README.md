@@ -1,7 +1,7 @@
 ### Hi there, I'm [Vineel Sai](https://vineelsai.com) 👋
 
 * Want to see my repos look here 👆 <br>
-* Want to contact me mail me here 👉 vineelsai26@gmail.com <br>
+* Want to contact me mail me here 👉 mail@vineelsai.com <br>
 * Want to see my favourite repos look here 👇 <br>
 * What to see me look here 👈 <br>
 
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-[![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26)](])
+[![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26)](https://vineelsai.com)
 [![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)](https://vineelsai.com)
 [![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars)](https://vineelsai.com)
 <br>
@@ -37,7 +37,3 @@
 | GitHub Streak | GitHub Stats|
 | ----|-----|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.com)|
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Blog)](https://github.com/vineelsai26/Blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=E.D.I.T.H)](https://github.com/vineelsai26/E.D.I.T.H)
-
