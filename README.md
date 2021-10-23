@@ -37,3 +37,5 @@
 | GitHub Streak | GitHub Stats|
 | ----|-----|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.com)|
+
+[![Vineel Sai](https://activity-graph.herokuapp.com/graph?username=vineelsai26&bg_color=FFFFFF)](https://vineelsai.com)
