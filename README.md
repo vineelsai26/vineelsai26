@@ -14,12 +14,3 @@
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.com)|
 
 [![Vineel Sai](https://activity-graph.herokuapp.com/graph?username=vineelsai26&bg_color=FFFFFF&line=FFEE4A&point=FE9600)](https://vineelsai.com)
-
----
-
-# Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
