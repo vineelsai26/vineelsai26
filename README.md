@@ -9,9 +9,6 @@
 [![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26&color=FE9600)](https://vineelsai.com)
 [![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers&color=FE9600)](https://vineelsai.com)
 [![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars&color=FE9600)](https://vineelsai.com)
-[![GitHub Age](https://badges.pufler.dev/years/vineelsai26?color=FE9600)](https://vineelsai.com)
-[![GitHub Repos](https://badges.pufler.dev/repos/vineelsai26?color=FE9600)](https://vineelsai.com)
-[![GitHub Commits](https://badges.pufler.dev/commits/monthly/vineelsai26?color=FE9600)](https://vineelsai.com)
 
 ## 📈 My Stats
 
