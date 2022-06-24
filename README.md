@@ -24,6 +24,10 @@
 
 [![Vineel Sai](https://activity-graph.herokuapp.com/graph?username=vineelsai26&bg_color=FFFFFF&line=FFEE4A&point=FE9600)](https://vineelsai.com)
 
+## 🎯 Skills
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,androidstudio,javascript,nodejs,express,react,nextjs,py,flask,django,cs,html,css,docker,kubernetes,azure,aws,gcp,heroku,vercel,netlify,cloudflare,workers,firebase,mongodb,dynamodb,mysql,github,linux,bash,vscode,idea,unity,visualstudio&theme=light)](https://vineelsai.com)
+
 ## 📱 Socials
 
 <a href="https://facebook.com/vineelsai26">
