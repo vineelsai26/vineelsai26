@@ -14,11 +14,11 @@
 
 | GitHub Streak | GitHub Stats|
 |-----|-----|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true)](https://vineelsai.com)|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-stats.vineelsai.com/api?username=vineelsai26&show_icons=true&count_private=true)](https://vineelsai.com)|
 
 ## 💻 GitHub Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali)](https://vineelsai.com)
+[![Top Langs](https://github-stats.vineelsai.com/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali)](https://vineelsai.com)
 
 ## 📈 GitHub Activity
 
