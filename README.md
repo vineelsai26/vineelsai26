@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Activity
 
-[![Vineel Sai](https://activity-graph.herokuapp.com/graph?username=vineelsai26&bg_color=FFFFFF&line=FFEE4A&point=FE9600)](https://vineelsai.com)
+[![Vineel Sai](https://github-readme-activity-graph.cyclic.app/graph?username=vineelsai26&bg_color=FFFFFF&line=FFEE4A&point=FE9600)](https://vineelsai.com)
 
 ## 🎯 Skills
 
