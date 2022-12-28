@@ -14,40 +14,32 @@
 
 | GitHub Streak | GitHub Stats|
 |-----|-----|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=light)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-stats.vineelsai.com/api?username=vineelsai26&show_icons=true&count_private=true)](https://vineelsai.com)|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=dark)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-stats.vineelsai.com/api?username=vineelsai26&show_icons=true&count_private=true&theme=dark)](https://vineelsai.com) |
 
-## 💻 GitHub Most Used Languages
-
-[![Top Langs](https://github-stats.vineelsai.com/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali)](https://vineelsai.com)
+## 💻 Most Used Languages
+| From GitHub Repos | From Wakatime |
+|-----|-----|
+| [![Top Langs](https://github-stats.vineelsai.com/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali&theme=dark)](https://vineelsai.com) | [![Wakatime](https://github-stats.vineelsai.com/api/wakatime?username=vineelsai26&layout=compact&langs_count=8&theme=dark)](https://vineelsai.com) |
 
 ## 📈 GitHub Activity
 
-[![Vineel Sai](https://github-readme-activity-graph.cyclic.app/graph?username=vineelsai26&bg_color=FFFFFF&line=FFEE4A&point=FE9600)](https://vineelsai.com)
+[![Vineel Sai](https://github-readme-activity-graph.cyclic.app/graph?username=vineelsai26&bg_color=000000&color=6CE287&line=FFEE4A&point=FE9600)](https://vineelsai.com)
 
 ## 🎯 Skills
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,androidstudio,javascript,nodejs,express,react,nextjs,py,flask,django,cs,html,css,docker,kubernetes,azure,aws,gcp,heroku,vercel,netlify,cloudflare,workers,firebase,mongodb,dynamodb,mysql,github,linux,bash,vscode,idea,unity,visualstudio&theme=light)](https://vineelsai.com)
+[![Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,react,nextjs,vite,py,flask,django,cs,go,c,cpp,java,kotlin,html,css,docker,kubernetes,azure,aws,gcp,heroku,vercel,netlify,cloudflare,workers,firebase,mongodb,dynamodb,mysql,git,github,githubactions,linux,bash,vscode,androidstudio,idea,unity,visualstudio&theme=light)](https://vineelsai.com)
 
 ## 📱 Socials
 
-<a href="https://facebook.com/vineelsai26">
-    <img src="images/facebook.svg" width="50px" style="padding: 15px"/>
-</a>
 <a href="https://instagram.com/vineelsai26">
-    <img src="images/instagram.svg" width="50px" style="padding: 15px"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50px" style="padding: 15px"/>
 </a>
 <a href="https://twitter.com/vineelsai26">
-    <img src="images/twitter.svg" width="50px" style="padding: 15px"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="50px" style="padding: 15px"/>
 </a>
 <a href="https://linkedin.com/in/vineelsai26">
-    <img src="images/linkedin.svg" width="50px" style="padding: 15px"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" style="padding: 15px"/>
 </a>
 <a href="https://github.com/vineelsai26">
-    <img src="images/github.svg" width="50px" style="padding: 15px"/>
-</a>
-<a href="https://vstech.medium.com">
-    <img src="images/medium.svg" width="50px" style="padding: 15px"/>
-</a>
-<a href="https://vineelsai.com">
-    <img src="images/globe.svg" width="50px" style="padding: 15px"/>
+    <img src="https://skillicons.dev/icons?i=github" width="50px" style="padding: 15px"/>
 </a>
