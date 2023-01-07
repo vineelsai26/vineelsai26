@@ -19,7 +19,7 @@
 ## 💻 Most Used Languages
 | From GitHub Repos | From Wakatime |
 |-----|-----|
-| [![Top Langs](https://github-stats.vineelsai.com/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali&theme=dark)](https://vineelsai.com) | [![Wakatime](https://github-stats.vineelsai.com/api/wakatime?username=vineelsai26&layout=compact&langs_count=8&theme=dark)](https://vineelsai.com) |
+| [![Top Langs](https://github-stats.vineelsai.com/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali&exclude_repo=android_kernel_xiaomi_onclite&theme=dark)](https://vineelsai.com) | [![Wakatime](https://github-stats.vineelsai.com/api/wakatime?username=vineelsai26&layout=compact&langs_count=8&theme=dark)](https://vineelsai.com) |
 
 ## 📈 GitHub Activity
 
