@@ -33,12 +33,12 @@
 
 | GitHub Streak | GitHub Stats|
 |-----|-----|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=dark)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://github-stats.vineelsai.com/api?username=vineelsai26&show_icons=true&count_private=true&theme=dark)](https://vineelsai.com) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=dark)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://stats.github.vineelsai.com/api?username=vineelsai26&show_icons=true&count_private=true&theme=dark)](https://vineelsai.com) |
 
 ## 💻 Most Used Languages
 | From GitHub Repos | From Wakatime |
 |-----|-----|
-| [![Top Langs](https://github-stats.vineelsai.com/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali&exclude_repo=android_kernel_xiaomi_onclite&theme=dark)](https://vineelsai.com) | [![Wakatime](https://github-stats.vineelsai.com/api/wakatime?username=vineelsai26&layout=compact&langs_count=8&theme=dark)](https://vineelsai.com) |
+| [![Top Langs](https://stats.github.vineelsai.com/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali&exclude_repo=android_kernel_xiaomi_onclite&theme=dark)](https://vineelsai.com) | [![Wakatime](https://github-stats.vineelsai.com/api/wakatime?username=vineelsai26&layout=compact&langs_count=8&theme=dark)](https://vineelsai.com) |
 
 ## 📈 GitHub Activity
 
