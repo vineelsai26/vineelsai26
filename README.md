@@ -35,18 +35,13 @@
 |-----|-----|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=dark)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://stats.github.vineelsai.com/api?username=vineelsai26&show_icons=true&count_private=true&theme=dark)](https://vineelsai.com) |
 
-## 💻 Most Used Languages
-| From GitHub Repos | From Wakatime |
-|-----|-----|
-| [![Top Langs](https://stats.github.vineelsai.com/api/top-langs/?username=vineelsai26&layout=compact&langs_count=8&hide=shell,smali&exclude_repo=android_kernel_xiaomi_onclite&theme=dark)](https://vineelsai.com) | [![Wakatime](https://github-stats.vineelsai.com/api/wakatime?username=vineelsai26&layout=compact&langs_count=8&theme=dark)](https://vineelsai.com) |
-
 ## 📈 GitHub Activity
 
 [![Vineel Sai](https://github-readme-activity-graph.cyclic.app/graph?username=vineelsai26&bg_color=000000&color=6CE287&line=FFEE4A&point=FE9600)](https://vineelsai.com)
 
 ## 🎯 Skills
 
-[![Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,react,nextjs,vite,py,flask,django,cs,go,c,cpp,java,kotlin,html,css,docker,kubernetes,azure,aws,gcp,heroku,vercel,netlify,cloudflare,workers,firebase,mongodb,dynamodb,mysql,git,github,githubactions,linux,bash,vscode,androidstudio,idea,unity,visualstudio&theme=light)](https://vineelsai.com)
+[![Skills](https://skillicons.dev/icons?i=typescript,javascript,py,go,cs,c,cpp,java,kotlin,nodejs,express,react,nextjs,tailwind,vite,flask,django,html,css,docker,kubernetes,azure,aws,gcp,heroku,vercel,netlify,cloudflare,workers,firebase,mongodb,dynamodb,mysql,git,github,githubactions,linux,bash,vscode,androidstudio,idea,unity,visualstudio&theme=light)](https://vineelsai.com)
 
 ## 📱 Socials
 
