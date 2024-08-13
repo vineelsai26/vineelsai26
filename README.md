@@ -24,10 +24,6 @@
 
 [![Vineel Sai](https://github-readme-activity-graph.vercel.app/graph?username=vineelsai26&bg_color=000000&color=6CE287&line=FFEE4A&point=FE9600)](https://vineelsai.com)
 
-## 🎯 Skills
-
-[![Skills](https://icons.vineelsai.com/icons?i=typescript,javascript,py,go,cs,c,cpp,java,kotlin,nodejs,express,react,nextjs,tailwind,vite,flask,django,html,css,docker,kubernetes,azure,aws,gcp,heroku,vercel,netlify,cloudflare,workers,firebase,mongodb,dynamodb,mysql,git,github,githubactions,linux,bash,vscode,androidstudio,idea,unity,visualstudio&theme=light)](https://vineelsai.com)
-
 ## 📱 Socials
 
 <a href="https://instagram.com/vineelsai26">
