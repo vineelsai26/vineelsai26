@@ -1,40 +1,108 @@
-# Hi there, I'm [Vineel Sai](https://vineelsai.com) 👋
+<div align="center">
 
-- Checkout my portfolio at 👉 [Portfolio](https://vineelsai.com)
-- Checkout my blog at 👉 [Blog](https://vineelsai.com/blog)
-- Checkout my resume at 👉 [Resume](https://vineelsai.com/resume/resume.pdf)
-- Reach me out at 👉 mail@vineelsai.com
-- Currently working at 👉 [@ElucidataInc](https://github.com/ElucidataInc)
-- My Unmaintained Projects at 👉 [@VSArchive](https://github.com/VSArchive)
-- WSL Dirstros I Maintained at 👉 [@VSWSL](https://github.com/VSWSL)
-- Apps I Published to Play Store at 👉 [@VSPlayStore](https://github.com/VSPlayStore)
-- Automation's I run are at 👉 [@AutomationRunner](https://github.com/AutomationRunner) [@BackupRunner](https://github.com/BackupRunner)
+# Vineel Sai
 
-[![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26&color=FE9600)](https://vineelsai.com)
-[![GitHub Followers](https://img.shields.io/github/followers/vineelsai26?label=Followers&color=FE9600)](https://vineelsai.com)
-[![GitHub Stars](https://img.shields.io/github/stars/vineelsai26?label=Stars&color=FE9600)](https://vineelsai.com)
+### DevOps Engineer II
 
-## 📊 GitHub Stats
+I build and automate infrastructure, developer platforms, homelabs, and occasionally things that probably didn't need automating.\
 
-| GitHub Streak | GitHub Stats|
-|-----|-----|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=dark)](https://vineelsai.com) | [![Vineel Sai's GitHub stats](https://stats.github.vineelsai.com/api?username=vineelsai26&show_icons=true&count_private=true&theme=dark)](https://vineelsai.com) |
+</div>
 
-## 📈 GitHub Activity
+---
 
-[![Vineel Sai](https://github-readme-activity-graph.vercel.app/graph?username=vineelsai26&bg_color=000000&color=6CE287&line=FFEE4A&point=FE9600)](https://vineelsai.com)
+## About me
 
-## 📱 Socials
+I'm a **DevOps Engineer** focused on building reliable infrastructure, automating repetitive work, and improving the developer experience.
 
-<a href="https://instagram.com/vineelsai26">
-    <img src="https://icons.vineelsai.com/icons?i=instagram" width="50px" style="padding: 15px"/>
-</a>
-<a href="https://twitter.com/vineelsai26">
-    <img src="https://icons.vineelsai.com/icons?i=twitter" width="50px" style="padding: 15px"/>
-</a>
-<a href="https://linkedin.com/in/vineelsai26">
-    <img src="https://icons.vineelsai.com/icons?i=linkedin" width="50px" style="padding: 15px"/>
-</a>
-<a href="https://github.com/vineelsai26">
-    <img src="https://icons.vineelsai.com/icons?i=github" width="50px" style="padding: 15px"/>
-</a>
+My work and side projects usually involve:
+
+* ☸️ Kubernetes, containers, networking, and cloud infrastructure
+* 🔁 CI/CD, infrastructure automation, and developer tooling
+* 📊 Monitoring, observability, and reliability engineering
+* 🐧 Linux, self-hosting, and homelab infrastructure
+* 🤖 AI agents, LLM tooling, and AI infrastructure
+* 🔌 Raspberry Pi, ESP32, Home Assistant, and hardware projects
+* 🛠️ Building small tools when an existing one isn't quite right
+
+---
+
+## Tech
+
+<div align="center">
+
+### Infrastructure & Cloud
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,aws,azure,gcp,cloudflare,linux&perline=9" />
+
+### Development & Automation
+
+<img src="https://skillicons.dev/icons?i=python,go,ts,nodejs,bash,powershell,githubactions,git,github&perline=9" />
+
+### Observability & Data
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,postgres,mysql,redis,kafka&perline=9" />
+
+</div>
+
+---
+
+## What I'm interested in
+
+```yaml
+infrastructure:
+  - Kubernetes
+  - Cloud platforms
+  - Infrastructure as Code
+  - CI/CD
+  - Networking
+  - Observability
+
+engineering:
+  - Platform engineering
+  - Developer experience
+  - Distributed systems
+  - Automation
+  - Self-hosting
+
+currently_exploring:
+  - AI agents
+  - LLM infrastructure
+  - Homelab automation
+  - Embedded / IoT projects
+```
+
+---
+
+## Projects
+
+A lot of my GitHub is a mix of infrastructure experiments, developer tools, automation, apps, and things I've built while learning something new.
+
+<p align="center">
+  <a href="https://github.com/vineelsai26?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vineelsai26&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+[Portfolio](https://vineelsai.com) ·
+[Blog](https://vineelsai.com/blog) ·
+[Resume](https://vineelsai.com/resume/resume.pdf) ·
+[LinkedIn](https://linkedin.com/in/vineelsai26) ·
+[Email](mailto:mail@vineelsai.com)
+
+<br/>
+
+</div>
